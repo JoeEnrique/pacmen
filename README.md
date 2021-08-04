@@ -1,5 +1,5 @@
 # Pacmen Animation
-Many images of pacman bouncing around
+Many images of PacMan bouncing around
 <h1><img src="https://github.com/JoeEnrique/pacmen/blob/main/images/PacMan1.png" alt="Pacmen" width="15%"></h1>
 > Version 0.1
 
